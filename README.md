@@ -1,1 +1,1 @@
-This is a painting website named as VisualArrts
+This is a painting website named VisualArrts
